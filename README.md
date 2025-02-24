@@ -1,4 +1,3 @@
-Here's your **README.md** and **requirements.txt** to properly document and set up your project for GitHub.  
 
 ---
 
