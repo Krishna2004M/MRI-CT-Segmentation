@@ -86,7 +86,7 @@ MRI-CT-Segmentation/
 
 ## 📧 Contact
 **Author:** M Krishna  
-**Email:** krishbabu2004@example.com  
+**Email:** krishbabu2004@gmail.com  
 **GitHub:** [Krishna2004M](https://github.com/Krishna2004M/MRI-CT-Segmentation)
 ```
 
